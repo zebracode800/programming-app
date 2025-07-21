@@ -1,2 +1,2 @@
 # programming-app
-codes from the Senai class involving application programming 
+codes from the SENAI class involving application programming 
