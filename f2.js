@@ -11,4 +11,3 @@ for (let i = 11; i < 30; i++) {
 }
 
 console.log(`\t\tA soma dos números ímpares entre 10 e 30 é: ${soma}!!`);
-aaa
