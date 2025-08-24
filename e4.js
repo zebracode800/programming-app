@@ -1,3 +1,5 @@
+const prompt = require("prompt-sync")();
+
 console.log(`\n\tAtividade E4)\n`);
 
 let numeros = [];
