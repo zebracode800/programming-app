@@ -1,3 +1,5 @@
+const prompt = require("prompt-sync")();
+
 console.log(`\n\tAtividade A4!!\n`);
 
 let jogos = ["Loop Hero", "Fortnite", "Slime Rancher", "Undertale", "Forager"];
